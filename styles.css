@@ -19,6 +19,7 @@
 }
 .moviePic:hover{
 	opacity:1;
+	
 }
 
 .fade{
@@ -32,4 +33,7 @@
 	background-color:rgba(0,0,0,0.5);
 	position:static;
 	top:40%;
+}
+audio{
+	display:none;
 }
