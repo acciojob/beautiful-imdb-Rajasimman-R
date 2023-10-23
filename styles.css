@@ -25,7 +25,7 @@
 .fade{
 	background-color:rgba(0, 0, 0, 0.33);
 }
-.movieDetail{
+.movieDetail,h2{
 	color:rgba(255, 255,255, 0.6);
 	padding:0% 10% 3% 10%;
 	text-align:justify;
@@ -33,6 +33,10 @@
 	background-color:rgba(0,0,0,0.5);
 	position:static;
 	top:40%;
+}
+h2{
+	font-size:1.5rem;
+	text-align:center;
 }
 audio{
 	display:none;
